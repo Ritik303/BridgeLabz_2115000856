@@ -4,7 +4,7 @@ class Person{
     int age;
     String gender;
     Person(){
-        this("Ayush",20,"male");
+        this("Ritik",20,"male");
     }
     Person(String name,int age,String gender){
         this.name=name;

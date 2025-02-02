@@ -3,7 +3,7 @@ class HotelBooking{
     String guestName,roomType;
     int nights;
     HotelBooking(){
-        this("Pawan","Full-AC",1);        
+        this("Ritik","Full-AC",1);        
     }
     HotelBooking(String guestName,String roomType,int nights){
         this.guestName=guestName;
