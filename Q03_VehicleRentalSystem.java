@@ -1,9 +1,3 @@
-// public class Q03_VehicleRentalSystem {
-//     public static void main(String[] args) {
-        
-//     }
-// }
-
 
 import java.util.*;
 
